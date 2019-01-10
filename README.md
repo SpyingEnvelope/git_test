@@ -1,0 +1,1 @@
+This is Gad's first git project!
